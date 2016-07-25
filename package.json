@@ -1,0 +1,22 @@
+{
+  "name": "popcorn-js",
+  "version": "1.0.0",
+  "description": "The HTML5 Media Framework",
+  "main": "popcorn.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agentkenny007/popcorn-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agentkenny007/popcorn-js/issues"
+  },
+  "homepage": "https://github.com/agentkenny007/popcorn-js#readme"
+}
